@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Hi
+## Markup is fun to use.
+### Preview option in git makes things easy !!
